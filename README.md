@@ -139,3 +139,6 @@ fi
   > 1.在 [CP] Check Pods Manifest.lock 下添加第一个移除脚本；
 
   > 2.在 Embed Frameworks 后面添加第二个恢复脚本。
+
+#### 4.参考
+[Stripping Unwanted Architectures From Dynamic Libraries In Xcode](http://ikennd.ac/blog/2015/02/stripping-unwanted-architectures-from-dynamic-libraries-in-xcode/).
