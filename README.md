@@ -132,10 +132,10 @@ else
     rm -r $TMP_FRAMEWORKS_PATH
 fi
 
-
 ```
 
 #### 3.Xcode Build Phases中添加脚本
 
-1.在 [CP] Check Pods Manifest.lock 下添加第一个移除脚本；
-2.在 Embed Frameworks 后面添加第二个恢复脚本。
+  > 1.在 [CP] Check Pods Manifest.lock 下添加第一个移除脚本；
+
+  > 2.在 Embed Frameworks 后面添加第二个恢复脚本。
