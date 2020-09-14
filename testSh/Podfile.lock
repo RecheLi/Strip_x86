@@ -1,0 +1,20 @@
+PODS:
+  - NIMSDK_LITE (7.6.2)
+  - QY_iOS_SDK (5.11.0):
+    - NIMSDK_LITE (~> 7.6.0)
+
+DEPENDENCIES:
+  - QY_iOS_SDK (~> 5.11.0)
+
+SPEC REPOS:
+  https://mirrors.bfsu.edu.cn/git/CocoaPods/Specs.git:
+    - NIMSDK_LITE
+    - QY_iOS_SDK
+
+SPEC CHECKSUMS:
+  NIMSDK_LITE: a66a5642b1cbf3b046c4198816e618b335e566a7
+  QY_iOS_SDK: ef8883df07bb34c1ca98edf9b170868c8e6c4dbb
+
+PODFILE CHECKSUM: 7baa43e25d042da0f555705fafa01bc7e4ca12ae
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-testSh/Pods-testSh-frameworks.sh
+${PODS_ROOT}/NIMSDK_LITE/NIMSDK/NIMSDK.framework
+${PODS_ROOT}/QY_iOS_SDK/SDK/QYSDK.framework
